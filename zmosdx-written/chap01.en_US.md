@@ -1,8 +1,8 @@
-# Chapter 1: THE AWAKENING OF THE HERO
+# Chapter 1: The Awakening of the Hero
 
 ## Preparations
 
-![Maison de Link](img/house-cave/link-house.png)
+![Link's house](img/house-cave/link-house.png)
 
 After the introduction, jump from your bed and open the chest containing your **Shield**, and take the opportunity to break all the vases: **5 rupees** will be granted in all. Do not worry about the room on the right, you can only go a little later. Get out of the house, and talk to the monkey to let you pass.
 
@@ -26,26 +26,26 @@ TODO: translate maps, enemies and events.
 
 | Floor | Map |
 |:--:|--|
-| RDC | ![RDC](img/dungeons/00-lyriann-cave-1f.fr_FR.png) |
-| Sous-sol 1 | ![Sous-sol 1](img/dungeons/00-lyriann-cave-b1.fr_FR.png) |
+| 1st Floor | ![1st Floor](img/dungeons/00-lyriann-cave-1f.en_US.png) |
+| Basement 1 | ![Basement 1](img/dungeons/00-lyriann-cave-b1.en_US.png) |
 
 | Room | Enemies |
 |:-----:|:--------|
-| -1.C  | Soldat (x1) |
-| -1.D  | Popo (x3) |
-| RC.A  | Popo (x1) |
-| RC.B  | Popo (x1) |
-| RC.D  | Popo (x4), Tetdoss (x1) |
-| RC.E  | Popo (x4), Tetdoss (x2) |
+| -1.C  | Soldier (x1) |
+| -1.D  | Tentacle (x3) |
+| RC.A  | Tentacle (x1) |
+| RC.B  | Tentacle (x1) |
+| RC.D  | Tentacle (x4), Bubble (x1) |
+| RC.E  | Tentacle (x4), Bubble (x2) |
 
 
 | # | Event |
 |:--:|:-----------|
-| 1 | Sauter depuis l'excroissance |
-| 2 | Ouvre le raccourci à droite |
-| 3 | Tuer tous les Popos pour ouvrir le passage |
-| 4 | Tuer tous les Popos pour ouvrir le passage |
-| 5 | Marcher uniquement sur la partie sud du sol |
+| 1 | Jump from the outgrowth |
+| 2 | Open shortcut on the right |
+| 3 | Kill all Tentacles to open the path |
+| 4 | Kill all Tentacles to open the path |
+| 5 | Walk only on the south part of the ground |
 
 
 Next to the old fountain is the entrance to the Lyriann Cave. Go ahead and use the Key of Earth. Take the teleporter north east of Tom and talk to him. After having made a topo, he challenges you to recover the treasure of this cave. To do this, he lends you his **Boomerang**. Take the teleporter and you are again in front of the entrance. Turn on the crystal switch, and jump into the hole from the slight outgrowth that goes ahead. You land on the orange pads. Jump to the right and follow the only path that leads to a staircase leading down to the ground floor. Under the vase is a button activating the exit to the entrance. You will not need to go through the hole to return to the teleporter of this room. Before entering, activate the crystal switch again so that the blue pads are raised. So take the teleporter, and take the stairs (the chest is useless, it is empty). With the Boomerang, turn on the crystal switch and walk up the stairs.
@@ -54,7 +54,7 @@ You can now climb on the platform to go down to -1 while being in the northern p
 
 Once next to the crystal switch, lower the orange studs, move on, then lower the bruises. Now you have to launch the boomerang and rush north before it reaches the teleporter to be on the blue pads before they go back up. Namely that during the animation where Link launches the Boomerang, you can already press up, it will not change direction before the boomerang is launched.
 
-You can now go under the platform leading to the lower floor. Beware of Bubble (an invincible enemy that will kill you), and kill all enemies. It will have to be done in each room to be able to advance. In the second room, the Bubbles are always going in the same direction, let them go and follow them at a respectable distance. If you find yourself in bad shape, hide yourself near a torch, as far as possible from the center of the room, and be ready to welcome the Popos in case (the Bubbles should not be able to reach you). The vases in the last room contain hearts as needed. Jump in the hole.
+You can now go under the platform leading to the lower floor. Beware of Bubble (an invincible enemy that will kill you), and kill all enemies. It will have to be done in each room to be able to advance. In the second room, the Bubbles are always going in the same direction, let them go and follow them at a respectable distance. If you find yourself in bad shape, hide yourself near a torch, as far as possible from the center of the room, and be ready to welcome the Tentacles in case (the Bubbles should not be able to reach you). The vases in the last room contain hearts as needed. Jump in the hole.
 
 You end up in a mini labyrinth. Take the left towards the pot, go straight to meet a cross where there are four pots: take to the left to pass between these four pots. Before the ground becomes dark, go south: the north is trapped and will prevent you from passing. You can recover **Piece of Heart #02**. Return to the crossing with the four pots, and this time take a right. Do not take the teleporter and go instead to the orange studs. Follow the wall on the left to the statue and pull it a notch. Take the opportunity to activate the crystal switch. You can do it either diagonally from the orange studs, or face it and quickly go north to climb the orange studs as they are down. Rewind way to retrieve the chest: it contains **20 rupees**.
 
