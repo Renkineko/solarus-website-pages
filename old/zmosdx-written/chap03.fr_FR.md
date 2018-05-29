@@ -13,7 +13,7 @@
 |:--:|:-----------|
 | 1 | Ouvre la porte menant au second interrupteur de cristal |
 | 2 | Fait disparaître la statue de la seconde entrée |
-| 2 | Ouvre un raccourci vers la sortie |
+| 3 | Ouvre un raccourci vers la sortie |
 
 ## Vers la Caverne du Roc
 

@@ -1,4 +1,4 @@
-# Chapter 2 : Forest Dungeon (Level 1)
+# Chapter 2: Forest Dungeon (Level 1)
 
 ## Maps and useful informations
 
