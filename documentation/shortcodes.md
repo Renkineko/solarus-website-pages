@@ -6,7 +6,10 @@ Summary
 * [[alert]](shortcodes.md#alert)
 * [[badge]](shortcodes.md#badge)
 * [[button]](shortcodes.md#button)
+* [[column]](shortcodes.md#column)
+* [[container]](shortcodes.md#container)
 * [[icon]](shortcodes.md#icon)
+* [[row]](shortcodes.md#row)
 * [[space]](shortcodes.md#space)
 * [[tweets]](shortcodes.md#tweets)
 * [[tweet]](shortcodes.md#tweet)
@@ -135,6 +138,54 @@ Summary
 **Sample:**
 `[badge type="success" icon="home"]New[/badge]`
 
+[column]
+-----------------
+
+**Name:** column
+
+**Use on the site:** All over
+
+**Description:** Specify a new container colum
+
+**Content:** Yes
+
+**Mandatory content:** Yes
+
+**Parameters:**
+* **width**
+    * **Mandatory:** No
+    * **Possible values:** Integer from 1 to 12
+    * **Default value:** 12
+    * **Conditions of use:** None
+    * **Sample:** `width="6"`
+
+**Sample:**
+`[column width="12"]`
+
+[container]
+-----------------
+
+**Name:** container
+
+**Use on the site:** All over
+
+**Description:** Specify a new container grid
+
+**Content:** Yes
+
+**Mandatory content:** Yes
+
+**Parameters:**
+* **is_fluid**
+    * **Mandatory:** No
+    * **Possible values:** true|false
+    * **Default value:** false
+    * **Conditions of use:** None
+    * **Sample:** `is_fluid="true"`
+
+**Sample:**
+`[container is_fluid="true"]`
+
 [icon]
 -----------------
 
@@ -159,6 +210,22 @@ Summary
 **Sample:**
 `[icon icon="home"]`
 
+[row]
+-----------------
+
+**Name:** row
+
+**Use on the site:** All over
+
+**Description:** Specify a new row grid
+
+**Content:** No
+
+**Mandatory content:** No
+
+**Parameters:** None
+
+**Sample:**
 
 [space]
 -----------------

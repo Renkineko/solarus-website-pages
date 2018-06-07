@@ -3,7 +3,7 @@ yeah :D
 [container type="fluid"]
 [row type="titi]
 [column width=6]
-Row 1 col 6
+[alert]Texte alerte :)[/alert]
 [/column]
 [column width=6]
 Row 1 col 6
