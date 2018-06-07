@@ -6,6 +6,8 @@ Summary
 * [[alert]](shortcodes.md#alert)
 * [[badge]](shortcodes.md#badge)
 * [[button]](shortcodes.md#button)
+* [[icon]](shortcodes.md#icon)
+* [[space]](shortcodes.md#space)
 * [[tweets]](shortcodes.md#tweets)
 * [[tweet]](shortcodes.md#tweet)
 * [[twitch]](shortcodes.md#twitch)
@@ -133,4 +135,82 @@ Summary
 **Sample:**
 `[badge type="success" icon="home"]New[/badge]`
 
+[icon]
+-----------------
 
+**Name:** icon
+
+**Use on the site:** All over
+
+**Description:** Display an icon
+
+**Content:** No
+
+**Mandatory content:** No
+
+**Parameters:**
+* **icon**
+    * **Mandatory:** Yes
+    * **Possible values:** Fontawesome icon slug or false
+    * **Default value:** false
+    * **Conditions of use:** None
+    * **Sample:** `icon="home"`
+
+**Sample:**
+`[icon icon="home"]`
+
+
+[space]
+-----------------
+
+**Name:** space
+
+**Use on the site:** All over
+
+**Description:** Display a space
+
+**Content:** No
+
+**Mandatory content:** No
+
+**Parameters:**
+* **height**
+    * **Mandatory:** No
+    * **Possible values:** height in pixels
+    * **Default value:** 10
+    * **Conditions of use:** None
+    * **Sample:** `height="20"`
+
+**Sample:**
+`[space height="20"]`
+
+
+[youtube]
+-----------------
+
+**Name:** youtube
+
+**Use on the site:** All over
+
+**Description:** Display a youtube video 
+
+**Content:** No
+
+**Mandatory content:** No
+
+**Parameters:**
+* **id**
+    * **Mandatory:** Yes
+    * **Possible values:** Youtube id
+    * **Default value:** false
+    * **Conditions of use:** None
+    * **Sample:** `id="7GR308Ox-8o"`
+* **allowfullscreen**
+    * **Mandatory:** No
+    * **Possible values:** true|false
+    * **Default value:** true
+    * **Conditions of use:** None
+    * **Sample:** `allowfullscreen="false"`
+
+**Sample:**
+`[youtube allowfullscreen="false" id="7GR308Ox-8o"]`

@@ -1,6 +1,46 @@
 *Home*
-[button link="http://zelda-solarsu.com" target="_blank" outline="true" type="dark" icon="home" size="lg"]Go to Solarus[/button]
-[badge type="success" icon="home"]New[/badge]
-[alert dismiss="true" icon="user" type="success"]Super texte *ccol*[/alert]
-[jumbotron cool="oups" aha="ohoh"]Super texte jumbo *ccol*[/jumbotron]
-[hr height="10]
+yeah :D
+[container type="fluid"]
+[row type="titi]
+[column width=6]
+Row 1 col 6
+[/column]
+[column width=6]
+Row 1 col 6
+[/column]
+[/row]
+[row]
+Test
+[progressbar striped="true" animated="true" type="success"]100%[/progressbar]
+[space height="100"]
+[progressbar striped="true" animated="true" type="success" width="50" height="50"]100%[/progressbar]
+[/row]
+[row type="titi]
+[column width=6]
+Row 2 col 6
+[/column]
+[column width=6]
+Row 2 col 6
+[/column]
+[/row]
+[/container]
+lol
+[container type="fluid"]
+[row type="titi]
+[column width=6]
+Row 1 col 6
+[/column]
+[column width=6]
+Row 1 col 6
+[/column]
+[/row]
+[row type="titi]
+[column width=6]
+Row 2 col 6
+[/column]
+[column width=6]
+Row 2 col 6
+[/column]
+[/row]
+[/container]
+Super test 2
