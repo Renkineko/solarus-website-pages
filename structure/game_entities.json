@@ -7,6 +7,10 @@
         "type": "text",
         "label": "Excerpt"
     },
+    "layout": {
+        "type": "string",
+        "label": "Layout"
+    },
     "public_page": {
         "type": "boolean",
         "label": "Public page?"

@@ -11,6 +11,10 @@
         "type": "date",
         "label": "Creation date"
     },
+    "layout": {
+        "type": "string",
+        "label": "Layout"
+    },
     "public_page": {
         "type": "boolean",
         "label": "Public page?"

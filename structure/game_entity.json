@@ -20,6 +20,10 @@
         "type": "integer",
         "label": "ID"
     },
+    "layout": {
+        "type": "string",
+        "label": "Layout"
+    },
     "public_page": {
         "type": "boolean",
         "label": "Public page?"
