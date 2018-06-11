@@ -1,0 +1,28 @@
+[jumbotron title="Titre d'accroche" lead="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non lacus massa. Nullam imperdiet erat est, non pulvinar ex consectetur at. Pellentesque tristique cursus lectus, sit amet imperdiet urna dignissim nec."]
+[/jumbotron]
+[container]
+[row]
+[column width=6]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante eros, commodo nec malesuada vel, porta in sem. Aliquam euismod lacus ut augue pretium convallis. Mauris vehicula enim non nulla vulputate, a mollis lorem mattis. Aliquam dapibus justo pulvinar erat sollicitudin cursus. Integer tincidunt lorem felis, non elementum nisl venenatis eget. Duis vestibulum commodo consectetur. Duis elementum ligula ac quam mattis gravida. Nunc lacinia venenatis nunc, ac egestas lorem ornare in. Praesent vehicula lorem non lectus dignissim semper. Sed feugiat mattis gravida. Duis sit amet consequat orci. Vestibulum dictum erat ac lacus tempus consectetur sagittis at est. Pellentesque volutpat erat ac enim hendrerit commodo. Maecenas ut urna sollicitudin, volutpat leo nec, consectetur erat. Morbi eu lacinia purus, quis ultrices nibh.
+
+Morbi eros erat, commodo at ex sit amet, dictum molestie leo. Donec posuere laoreet turpis, nec tempor arcu. Mauris ut felis eget justo pulvinar pulvinar in eget felis. Mauris condimentum molestie tellus non iaculis. Duis pulvinar a purus quis tempus. Nulla lobortis, arcu ultrices imperdiet consequat, risus metus vehicula nibh, id pharetra est lacus eu neque. Pellentesque sapien tellus, tempor in nibh id, tristique convallis quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam finibus orci sit amet quam elementum, nec semper orci elementum. Pellentesque auctor, nibh eu condimentum gravida, ipsum nibh mattis sapien, ac ultricies urna felis at arcu. Nulla in tincidunt felis. Suspendisse convallis viverra nibh dapibus mollis. Donec euismod lorem nisi, at euismod sem scelerisque a.
+
+Nunc justo odio, pulvinar non metus et, bibendum aliquet ante. Suspendisse scelerisque hendrerit rhoncus. Etiam at fringilla tellus. Morbi pharetra odio lobortis elit aliquet sagittis. Mauris ut orci nec augue dapibus ornare. Praesent a arcu dapibus, pretium dui at, imperdiet nunc. Sed lobortis velit a elit luctus, ac bibendum est maximus. Cras dapibus ante at sapien porttitor rutrum. Integer imperdiet lobortis interdum.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc a lacus fermentum, dignissim erat nec, posuere risus. Aenean varius mi purus, id aliquet erat venenatis at. Nulla efficitur consectetur accumsan. Morbi vulputate fringilla risus, eu dictum orci pellentesque ut. Vestibulum id tincidunt massa. Aliquam dolor est, mattis ac lacus id, porttitor aliquet orci. Etiam sollicitudin ac sem nec maximus. Mauris vel mi tempus, commodo ligula quis, ultricies turpis. Cras quis felis interdum, dignissim arcu id, porta est. Vestibulum ut velit id lectus rhoncus sodales. Vivamus eget eros bibendum, aliquet lacus id, viverra ipsum. Etiam eget nibh id purus porta ullamcorper.
+
+Ut euismod imperdiet libero, in convallis nisl tempus condimentum. Praesent eu pretium mi. Phasellus ex lacus, bibendum et turpis ac, lacinia scelerisque dolor. Nullam vehicula lectus justo, vitae luctus metus accumsan sit amet. Integer a egestas augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquam convallis efficitur. Aliquam erat volutpat. Nam risus nisl, ornare id sodales nec, dapibus fringilla magna. Nam congue metus eget velit volutpat, sit amet consequat ligula rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ligula ligula, dictum nec diam non, semper ornare sem.
+[/column]
+[column width=6]
+[progressbar type="success" striped="true" animated="true" width=50]50%[/progressbar]
+[space height=20]
+[progressbar type="info" animated="true" width=80]80%[/progressbar]
+[space height=20]
+[button type="danger" icon="user"]See website[/button]
+[space height=20]
+[button type="warning" icon="home" size="lg"]See website[/button]
+[space height=20]
+[alert title="Alert title" dismiss="true"]Lorem ipsum dolor sit amet[/alert]
+[/column]
+[/row]
+[/container]

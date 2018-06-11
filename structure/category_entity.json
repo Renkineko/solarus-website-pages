@@ -1,0 +1,23 @@
+{
+    "id": {
+        "type": "integer",
+        "label": "ID"
+    },
+    "layout": {
+        "type": "string",
+        "label": "Layout"
+    },
+    "parent": {
+        "type": "entity",
+        "label": "Parent",
+        "entity_type": "page"
+    },
+    "public_page": {
+        "type": "boolean",
+        "label": "Public page?"
+    },
+    "title": {
+        "type": "string",
+        "label": "Title"
+    }
+}
