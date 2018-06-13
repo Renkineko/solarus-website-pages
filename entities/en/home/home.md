@@ -1,3 +1,7 @@
+[Games](../game/game.mystery-of-solarus-dx.md)
+[I'm an inline-style link](https://www.google.com)
+[Games](../game/game.md)
+
 [jumbotron effect-in="lightspeedin" title="Titre d'accroche" lead="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non lacus massa. Nullam imperdiet erat est, non pulvinar ex consectetur at. Pellentesque tristique cursus lectus, sit amet imperdiet urna dignissim nec."]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante eros
 [button effect-in="rollin" type="primary" icon="user"]Download Solarus[/button]
@@ -7,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ante eros
 [column width=6 effect-in="flash"]
 Cette salle de bain a été une des plus originale à mettre en place. C'est un égoutier qui a voulu mettre ça en place chez lui, car c'est un homme qui ne se sent bien que les pieds dans l'eau, aussi toute la pièce baigne constamment dans une eau renouvelée (vous pouvez remarquer le renouvellement dans les murs). C'est comme avoir une fontaine géante chez soi. Et vous ne me croirez peut-être pas, mais l'effet de cette salle est extrêmement reposant, on est bercé par un petit clapoti et grâce à ça, il y a aussi une mesure de sécurité : personne ne peut entrer furtivement dans cette salle. De quoi décourager plus d'un voleur. J'ai eu cette idée peu après ma reconversion en tant qu'aventurier. On remarquera que j'ai tout de même laissé des zones sèches, en particulier pour les espaces de rangement comme le coffre au centre, le bois de ces coffres supportant mal l'eau.
 
-![Les Tuyaux de Johnny](data/entities/en/home/img/billy-book/pipe-room.png)
+![Les Tuyaux de Johnny](img/billy-book/pipe-room.png)
 ##Title 1
 ###Title 1.1
 ###Title 1.2
